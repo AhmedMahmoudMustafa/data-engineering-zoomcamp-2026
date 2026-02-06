@@ -85,3 +85,8 @@ A simple end-to-end flow that shows:
 Use: America/New_York
 
 
+**Notes on Validation & Queries**
+**Row counts and file sizes were obtained from:**
+**GCP Cloud Storage bucket details**
+**BigQuery dataset metadata**
+**No SQL queries were required for validation, as the information was available directly from dataset and file details.**
