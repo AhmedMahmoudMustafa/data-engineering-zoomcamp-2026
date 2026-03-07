@@ -13,6 +13,7 @@ __pycache__/
 *.env_encoded
 *service-account*.json
 *cred*.json
+*.json
 secrets/
 
 # Terraform
