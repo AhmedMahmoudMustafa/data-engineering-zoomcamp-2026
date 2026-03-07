@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "module3-datawarehouse",
+  "private_key_id": "e5dc493e9d640823f02bfcb6e78138be46b8413b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZqiMHpJuE/nUt\nMFrbN27hPszDejaPUJueCtKGjM2m8xLys7ty1Vw42R+GqHgYCEAo6j+f0w318N/K\nj+F98dk5PDZNrWeWDI+FlkT6eGtNSyu7UXJVa7Y3xiJF0ZXPf+NYguBUbEtbxEIH\nVFRJSBYfRmUox6Wl3fF6pIsWFnOH7Z7di0AhvuUbRAAdREXAc+WThGpzOTMZH2Rr\nNRzfGAZxErLIrChBr7Wwks7EUbKCgYTPztRetMI48PAXH5D9MK+BkH+Ppp6KLtZP\nw7QjmjBS/+KIYHvXpl80k7r6mvn3LwC1a1ZHVek34V4znw9tgwK0Lw3XhrszwFom\nzWfPIOG3AgMBAAECggEABSEDMt8xPmMGT0Ft3hP0mcUExsL8eP7pi9Qbvdvpzcxw\ng0ppfcZeb2B+Y67GTIhi88q4I18fyWCtF5mxe/xCpdN5HBrlpkISp7QMNKBwEkZ6\nU1PujzMD/HmbBtq3cLWznXIIDFnLNMvK0V+ueVXfhCW3pRV/Qpvhqapy62123SzG\nhTsaGhtHV8zzz+TS+hctjdnVB/lNm4Qq0LVUhQPSkqRweroMS2b07Th2N0ck4n3D\nc20vFnjgmjUbBMmNFzA/BdJTI00fSWBk87gf39UbGE6anhOt14pgMMihyuCroisE\nXOqPx7NwTUcxMUA0jtFbYv1KBuYu9hZUIp087vGigQKBgQD7oBIjZOXn7+YfQswa\nqlVDHyQUYeF+ssyPm4Ip5jvcvc3ivkHaAhpYN7SBP9+IOBedO6PomPPvnJ8cra7c\nsTNdbtedDVk5RfVMhgNjaONmZoHoquM6O+bqMxY74M+EOKH90jG1IRMS0T77uQ3r\nZ+o/FqJdNSfOSG+GSmycG/VSVwKBgQDdcuoXFy2Hh2R6jMhOIDrT04llchko01gs\n/8vZJi11sGa6fIV3EnmymjgOMCZzhx78LJK0OYP4y5bqWoVgAlq730Bf/VtplrCy\npN2zZQ9xEocPBMB6htMQEkM9EAIswpxpQFSnQ2CIs1o4KDT0oXv7BU5JKToxyc4p\net2gVQMPoQKBgH3ZX3kIW9yXJdd4xzCHBMHfb2IqWmfN8XXZ504hcstCuxiu46yv\n5JE+uy7xzVEKDPV9AMuyxD6RbRsg2xZSIkiWyYwpQvjcPoWZeVRc/28V0d+WqLNV\nhnaYOoSUOfX9hTe3y1i2RB3jPccUlRuqC4SmQ2quzUvk+rKFwrCJYzddAoGACXDe\nvgFE9aQ2Cmt6FqqVF3bLQsHshKsN9U0qeaWBBqVwm763Se5FtfGRNjmjSgWWspWL\n45cYI0E6u98EFKXFDIFmEzGP9h5whg01TnKeh+mMTH2dXxvkX6kHqNDH5vSdCnet\npDvhH7LVw9Mi/tLroDYHsmLJklnSKj6MuEsniEECgYB0HUTM1ZNpsWnGUCNqY5BI\nVU4sCUocm5iRCRCCfje2pfVkinmd+hjwC5HdBn3Giz3b9PVfqmpGApnZIDx+elAF\nh7l28RplMUSffCoTeiPSg5J3FEXD25a3uvFUJIFIMQWI3Wy/WYGNFyjynd8/DF0/\n9kdHdptsqljw2QfMaPRALA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dezoomcamp-mod3-datawarehouse@module3-datawarehouse.iam.gserviceaccount.com",
+  "client_id": "113517054094277141925",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dezoomcamp-mod3-datawarehouse%40module3-datawarehouse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
