@@ -63,3 +63,15 @@ airflow/*.db
 # ========================
 *.zip
 *.tar.gz
+
+# Windows zone identifier files
+*:Zone.Identifier
+
+# Spark output
+spark/output/
+
+# JAR files
+*.jar
+
+# dbt local config
+.user.yml
