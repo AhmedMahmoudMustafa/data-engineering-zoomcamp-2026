@@ -1,0 +1,11 @@
+fraud_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: capsone-project-492612
+      dataset: capsone_findata_dataset
+      location: EU
+      keyfile: /home/ahmed/DataEngineeringZoomcamp/capstone-project/keys/gcp_key.json
+      threads: 4

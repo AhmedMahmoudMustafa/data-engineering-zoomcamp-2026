@@ -1,0 +1,24 @@
+services:
+  spark:
+    image: apache/spark:3.5.1
+    container_name: spark
+    user: "0:0"
+    
+    environment:
+      - SPARK_MODE=master
+      - HOME=/tmp
+
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+
+    volumes:
+      - ./jobs:/opt/spark/jobs
+      - ../data:/opt/spark/data
+      - ./output:/opt/spark/output
+      - ./gcp:/opt/spark/gcp
+      - ../keys:/opt/spark/gcp/keys
+
+    working_dir: /opt/spark/jobs
+
+    command: tail -f /dev/null

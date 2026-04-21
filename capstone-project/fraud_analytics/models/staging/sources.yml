@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: capsone-project-492612
+    schema: capsone_findata_dataset
+    tables:
+      - name: transactions_raw
+        description: "Raw PaySim fraud transaction data loaded from GCS"
